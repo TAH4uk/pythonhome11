@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import random
 
-home = 15
 square = [random.randint(100, 300) for i in range(15)]
 price = [random.randint(3000000, 20000000) for i in range(15)]
 
